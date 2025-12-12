@@ -1,0 +1,5 @@
+{
+  "name": "AlphaFold3 Viewer",
+  "description": "A local visualization dashboard for AlphaFold 3 predictions. Upload your model.cif and confidences.json to view 3D structures colored by pLDDT, analyze PAE matrices, and generate AI insights.",
+  "requestFramePermissions": []
+}
